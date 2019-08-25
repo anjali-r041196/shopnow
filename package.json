@@ -18,13 +18,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anjali-r041196/shop.git"
+    "url": "git+https://github.com/anjali-r041196/shopnow.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anjali-r041196/shop/issues"
+    "url": "https://github.com/anjali-r041196/shopnow/issues"
   },
-  "homepage": "https://github.com/anjali-r041196/shop#readme"
+  "homepage": "https://github.com/anjali-r041196/shopnow#readme"
 }
